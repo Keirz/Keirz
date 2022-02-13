@@ -11,3 +11,4 @@
 - I was a Modder from NexusMods as a helper hand for Lua and txt and bug solving on code, if you guys wanna make a rocket fly from your eyes on GTA, DM me up!
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Keirz)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keirz)](https://github.com/anuraghazra/github-readme-stats)
