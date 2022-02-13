@@ -10,7 +10,4 @@
 
 - I was a Modder from NexusMods as a helper hand for Lua and txt and bug solving on code, if you guys wanna make a rocket fly from your eyes on GTA, DM me up!
 
-<!---
-Keirz/Keirz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Keirz)](https://git.io/streak-stats)
