@@ -10,7 +10,7 @@
 
 - I was a Modder from NexusMods as a helper hand for Lua and txt and bug solving on code, if you guys wanna make a rocket fly from your eyes on GTA, DM me up!
 
-<p><center>You can reachout to me on following social medias:</center></p>
+<p><center>You can reach out to me on following social medias:</center></p>
 <p></p>
 <p></p>
 <p></p>
