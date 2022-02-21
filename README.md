@@ -9,9 +9,19 @@
 - You can reach me on  or on my DMs for code partnerships!
 
 - I was a Modder from NexusMods as a helper hand for Lua and txt and bug solving on code, if you guys wanna make a rocket fly from your eyes on GTA, DM me up!
-<p><center><img id="myImage" src="https://img.icons8.com/color/48/000000/linkedin.png" style="display:none" onclick: "https://github.com/Keirz"></center></p>
-<a src="><img src=""https://img.icons8.com/color/48/000000/linkedin.png" alt="https://github.com/Keirz"></a>
+
+<p><center>You can reachout to me on following social medias:</center></p>
+<p></p>
+<p></p>
+<p></p>
+<p><center><a href="https://www.linkedin.com/in/pedro-q-b068621b6"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"></a></center></p>
 <!-- Links to your social media accounts -->
+<p></p>
+<p></p>
+<p></p>
+<p><center><a href="https://www.instagram.com/pkeroz/"><img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="Instagram"></a></center></p>
+<!-- Links to your social media accounts -->
+
 
 [1]: https://www.instagram.com/pkeroz/
 [2]: https://www.linkedin.com/in/pedro-q-b068621b6/
@@ -26,5 +36,5 @@
 
 
 
-
-<a href="https://icons8.com/icon/13930/linkedin">LinkedIn icon by Icons8</a>
+<a href="https://icons8.com/icon/32323/instagram"><p style="font-size:4;">Instagram icon by Icons8</p></a>
+<p style="font-size:10%;"><a href="https://icons8.com/icon/13930/linkedin">LinkedIn icon by Icons8</a></p>
