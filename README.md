@@ -1,6 +1,6 @@
 - Hello there, I’m @Keirz
 
-- I’m looking for for enhancing and troubleshooting codes for experience, just not an arrow to the knee.
+- I’m looking for enhancing and troubleshooting codes for experience, just not an arrow to the knee.
 
 - I`m currently exploring the vastly lore of everything except PHP.
 
