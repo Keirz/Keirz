@@ -14,7 +14,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><center><a href="https://www.linkedin.com/in/pedro-q-b068621b6"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"></a></center></p>
+<center><p><a href="https://www.linkedin.com/in/pedro-q-b068621b6"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"></a></p>
 <!-- Links to your social media accounts -->
 <p></p>
 <p></p>
@@ -33,7 +33,7 @@
 
 
 
-
+</center>
 
 
 <a href="https://icons8.com/icon/32323/instagram"><p style="font-size:4;">Instagram icon by Icons8</p></a>
