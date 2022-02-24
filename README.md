@@ -36,5 +36,5 @@
 </center>
 
 
-<a href="https://icons8.com/icon/32323/instagram"><p style="font-size:4;">Instagram icon by Icons8</p></a>
+<a href="https://icons8.com/icon/32323/instagram"><p style="font-size:10%;">Instagram icon by Icons8</p></a>
 <p style="font-size:10%;"><a href="https://icons8.com/icon/13930/linkedin">LinkedIn icon by Icons8</a></p>
