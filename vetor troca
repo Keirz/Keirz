@@ -1,7 +1,0 @@
-void troca(int *vet, int pos){
-    int aux;
-    aux = vet[pos];
-    vet[pos] = vet[19-pos];
-    vet[19-pos] = aux;
-    printf("Foi trocado o %d com o %d", vet[19-pos], vet[pos]);
-}
