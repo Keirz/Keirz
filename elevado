@@ -1,3 +1,0 @@
-#include<math.h>
-
-potencia = pow(a,b);
