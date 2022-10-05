@@ -1,4 +1,4 @@
-<center>- Hello there, I’m @Keirz
+- Hello there, I’m @Keirz
 
 - I’m looking for enhancing and troubleshooting codes for experience, just not an arrow to the knee.
 
@@ -33,4 +33,4 @@
 
 
 
-</center>
+
