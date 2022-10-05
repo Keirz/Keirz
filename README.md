@@ -22,15 +22,15 @@
 <a href="https://www.instagram.com/pkeroz/"><img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="Instagram"></a>
 </div>
 
-<div align="center">
+
 [1]: https://www.instagram.com/pkeroz/
 [2]: https://www.linkedin.com/in/pedro-q-b068621b6/
-</div>
-<div align="center">
+
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Keirz)](https://git.io/streak-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keirz)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
 
 
 
