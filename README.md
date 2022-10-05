@@ -2,9 +2,9 @@
 
 - I’m looking for enhancing and troubleshooting codes for experience, just not an arrow to the knee.
 
-- I`m currently exploring the vastly lore of everything except PHP.
+- I'm currently exploring the vastly lore of everything except PHP.
 
-- Eagerly looking for some co-op and read on your codes and projects, any at all, seriously, even if it`s to make the damn button work.
+- Eagerly looking for some co-op and read on your codes and projects, any at all, seriously, even if it's to make the damn button work.
 
 - You can reach me on  or on my DMs for code partnerships!
 
