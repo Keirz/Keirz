@@ -13,13 +13,14 @@
 - Currently working as a Developer at SMED, a company that sells it's software to Hospital and Healthcare units in custom-pack general.</center>
 
 
-<p><center>You can reach out to me on following social medias:</center></p>
+<center><p>You can reach out to me on following social medias:</p></center>
 <p></p>
 <p></p>
+<center>
 <p>
 <center><a href="https://www.linkedin.com/in/pedro-q-b068621b6"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"></a>
 <center><a href="https://www.instagram.com/pkeroz/"><img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="Instagram"></a></center>
-</p>
+</p></center>
 
 
 [1]: https://www.instagram.com/pkeroz/
