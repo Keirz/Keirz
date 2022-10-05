@@ -8,9 +8,11 @@
 
 - You can reach me on  or on my DMs for code partnerships!
 
-- I was a Modder from NexusMods as a helper hand for Lua and txt and bug solving on code, if you guys wanna make a rocket fly from your eyes on GTA, DM me up!</center>
+- I was a Modder from NexusMods as a helper hand for Lua and txt and bug solving on code, if you guys wanna make a rocket fly from your eyes on GTA, DM me up!
 
-- Currently working as a Developer at SMED, a company that sells it's software to Hospital and Healthcare units in custom-pack general.
+- Currently working as a Developer at SMED, a company that sells it's software to Hospital and Healthcare units in custom-pack general.</center>
+
+
 <p><center>You can reach out to me on following social medias:</center></p>
 <p></p>
 <p></p>
