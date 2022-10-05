@@ -18,18 +18,18 @@
 <p></p>
 <center>
 
-<center><a href="https://www.linkedin.com/in/pedro-q-b068621b6"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"></a>
-<center><a href="https://www.instagram.com/pkeroz/"><img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="Instagram"></a></center>
+<a href="https://www.linkedin.com/in/pedro-q-b068621b6"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/pkeroz/"><img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="Instagram"></a>
 </center>
 
-<center>
+
 [1]: https://www.instagram.com/pkeroz/
 [2]: https://www.linkedin.com/in/pedro-q-b068621b6/
-</center>
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Keirz)](https://git.io/streak-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keirz)](https://github.com/anuraghazra/github-readme-stats)
-  <center>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  </center>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
