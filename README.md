@@ -1,10 +1,11 @@
 # 💫 About Me:
-Hey, my name is Pedro Queiróz.<br>I'm currently working on software developing for hospital and/or Health Clinics management.<br>I'm interested in partaking on projects that involves Advanced JS, React.JS, Tailwind CSS, mUI, and <br>other front-end tech-stacks.<br><br>I'm up developing right now a new software for internal use for the company.<br><br>You can ask me anything you want, except PHP, that is a sin.<br><br>Fun fact, i've worked on debugging lua scripts on Nexus Mods voluntary while graduating on Law School
+<p align="center">
+Hey, my name is Pedro Queiróz.<br>I'm currently working on software developing for hospital and/or Health Clinics management.<br>I'm interested in partaking on projects that involves Advanced JS, React.JS, Tailwind CSS, mUI, and <br>other front-end tech-stacks.<br><br>I'm up developing right now a new software for internal use for the company.<br><br>You can ask me anything you want, except PHP, that is a sin.<br><br>Fun fact, i've worked on debugging lua scripts on Nexus Mods voluntary while graduating on Law School </p>
 
 
 ## 🌐 Socials:
-<a href="" align="center">
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/pkeroz)</a>
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/pkeroz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pedro-q-b068621b6/) 
 
 # 💻 Tech Stack:
