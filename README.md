@@ -1,6 +1,3 @@
-# 💫 About Me:
-<p align="center">
-Hey, my name is Pedro Queiróz.<br>I'm currently working on software developing for hospital and/or Health Clinics management.<br>I'm interested in partaking on projects that involves Advanced JS, React.JS, Tailwind CSS, mUI, and <br>other front-end tech-stacks.<br><br>I'm up developing right now a new software for internal use for the company.<br><br>You can ask me anything you want, except PHP, that is a sin.<br><br>Fun fact, i've worked on debugging lua scripts on Nexus Mods voluntary while graduating on Law School </p>
 
 
 ## 🌐 Socials:
