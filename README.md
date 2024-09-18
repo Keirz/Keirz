@@ -12,7 +12,6 @@
 🔭 I’m currently working on different projects as a Front-End Developer using Typescript, Angular and Vue(with and without Nuxt) oriented to renew the UX/UI and the code for the system-based app;<br>🤝 I’m looking for help with, advanced routing setups on Angular18+ with guards.<br>🌱 I’m currently learning Angular ^18, PrimeNG ^17.3, Vue(TS), Vue+Nuxt(TS)<br>💬 Ask me about React, Angular, Vue, specifically using this frameworks/libraries for system-based apps;<br>⚡ Fun fact once a Lawyer, now i have a decent job.
 
 # 📊 GitHub Stats:
-
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=Keirz&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Keirz&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Keirz&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
@@ -21,13 +20,8 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Keirz&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Keirz&icon=1&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Keirz&icon=0&color=9)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
